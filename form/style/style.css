@@ -1,0 +1,87 @@
+body {
+    background-color:khaki;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2 {
+    text-align: center;
+    background-color: rgb(108, 146, 250);
+}
+fieldset {
+    background-color: rgb(74, 212, 56);
+}
+legend {
+    text-align: center;
+    font-size: larger;
+}
+.a {
+    float: left;
+    width: 15%;
+    margin-top: 3px;
+}
+.b {
+    float: left;
+    width: 50%;
+    margin-top: 3px;
+}
+.c  {
+    text-align: center;
+}
+p {
+    color: red;
+}
+input[type=text] {
+    box-sizing: border-box;
+    border: 2px solid rgb(80, 77, 77);
+    border-radius: 4px;
+  }
+  input[type=radio] {
+    border: 2px solid rgb(80, 77, 77);
+    border-radius: 4px;
+  }
+input[type=date] {
+    box-sizing: border-box;
+    border: 2px solid rgb(80, 77, 77);
+    border-radius: 4px;
+  }
+input[type=number] {
+    box-sizing: border-box;
+    border: 2px solid rgb(80, 77, 77);
+    border-radius: 4px;
+  }
+input[type=email] {
+    box-sizing: border-box;
+    border: 2px solid rgb(80, 77, 77);
+    border-radius: 4px;
+  }
+input[type=tel] {
+    box-sizing: border-box;
+    border: 2px solid rgb(80, 77, 77);
+    border-radius: 4px;
+  }
+input[type=file] {
+    box-sizing: border-box;
+    border: 2px solid rgb(80, 77, 77);
+    border-radius: 4px;
+  }
+input[type=submit] {
+    font-size: medium;
+    box-sizing: border-box;
+    border: 2px solid rgb(80, 77, 77);
+    border-radius: 4px;
+  }
+input[type=reset] {
+    font-size: medium;
+    box-sizing: border-box;
+    border: 2px solid rgb(80, 77, 77);
+    border-radius: 4px;
+  }
+select {
+    box-sizing: border-box;
+    border: 2px solid rgb(80, 77, 77);
+    border-radius: 4px;
+  }
+textarea {
+    box-sizing: border-box;
+    border: 2px solid rgb(80, 77, 77);
+    border-radius: 4px;
+  }
